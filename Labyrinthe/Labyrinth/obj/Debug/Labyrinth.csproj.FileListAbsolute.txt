@@ -41,3 +41,13 @@ C:\Users\hiche\OneDrive\Bureau\Isib\Informatique décisionelle\Labyrinthe\Labyri
 C:\Users\hiche\OneDrive\Bureau\Isib\Informatique décisionelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
 C:\Users\hiche\OneDrive\Bureau\Isib\Informatique décisionelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.exe
 C:\Users\hiche\OneDrive\Bureau\Isib\Informatique décisionelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.pdb
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\bin\Debug\Labyrinth.exe.config
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\bin\Debug\Labyrinth.exe
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\bin\Debug\Labyrinth.pdb
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.frmLabyrinth.resources
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.exe
+C:\Users\USER\Desktop\Informatique-D-cisionnelle\Labyrinthe\Labyrinth\obj\Debug\Labyrinth.pdb
